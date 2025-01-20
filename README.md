@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou o Eduardo! 👋
 
-<!--
-**Champpmathieu/Champpmathieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia e programação, com experiência em **Python**, **C#**, e **Lua**. Meu foco principal é no desenvolvimento **Back-End** e **Criação de Jogos**.
 
-Here are some ideas to get you started:
+## 🚀 Minhas Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python**: Automação, APIs, e mais.
+- **C#**: Desenvolvimento para jogos (Unity) e aplicações back-end.
+- **Lua**: Scripts para jogos e automação.
+
+## 🎯 Objetivos
+
+- Aperfeiçoar minhas habilidades em desenvolvimento de jogos.
+- Contribuir para projetos open-source relacionados a back-end e games.
+- Explorar novas tecnologias e linguagens.
+
+## 🌟 Projetos em Destaque
+
+- [Coffee](#): Site de café com login feito em python.
+
+## 📫 Entre em Contato
+
+- **Email**: [](valencabalbino@gmail.com)
+
+Fique à vontade para explorar meus repositórios e contribuir para qualquer projeto. Vamos criar algo incrível juntos! 😄
