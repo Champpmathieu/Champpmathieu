@@ -20,6 +20,6 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, com experiência
 
 ## 📫 Entre em Contato
 
-- **Email**: [](valencabalbino@gmail.com)
+- **Email**: [valencabalbino@gmail.com](valencabalbino@gmail.com)
 
 Fique à vontade para explorar meus repositórios e contribuir para qualquer projeto. Vamos criar algo incrível juntos! 😄
