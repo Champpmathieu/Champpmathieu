@@ -1,6 +1,6 @@
 # Olá, sou o Eduardo! 👋
 
-Sou um desenvolvedor apaixonado por tecnologia e programação, com experiência em **Python** e **C#**. Meu foco principal é no desenvolvimento **Back-End** e **Criação de Jogos**.
+Sou um desenvolvedor de tecnologia e programação, com experiência em **Python** e **C#**. Meu foco principal é no desenvolvimento **Back-End** e **Criação de Jogos**.
 
 ## 🚀 Minhas Habilidades
 
