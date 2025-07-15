@@ -1,13 +1,13 @@
-# Olá, sou o Eduardo! 👋
+# Olá, sou o Eduardo!
 
 Sou um desenvolvedor de tecnologia e programação, com experiência em **Python** e **C#**. Meu foco principal é no desenvolvimento **Back-End** e **Criação de Jogos**.
 
-## 🚀 Minhas Habilidades
+## Minhas Habilidades
 
 - **Python**: Automação, APIs, e mais.
 - **C#**: Desenvolvimento para jogos (Unity) e aplicações back-end.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Aperfeiçoar minhas habilidades em desenvolvimento de jogos.
 - Contribuir para projetos open-source relacionados a back-end e games.
